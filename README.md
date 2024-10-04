@@ -1,4 +1,4 @@
-# pandette-policy
+# Tulear-policy
 Privacy Policy for Tulear Apps
 
 
